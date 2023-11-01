@@ -1,0 +1,43 @@
+.card {
+    display: flex;
+    align-items: center;
+    background-color: #D7E1E7;
+    border-radius: 16px;
+    width: 64vw;
+    height: 48vh;
+}
+
+.mainContainer{
+    height: 53vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.textContainer {
+    width: 42vw;
+    max-height: 40vh;
+    min-width: 100px;
+    margin: 0 2vw 0 2vw;
+}
+
+.textContainer p {
+    text-align: justify;
+    padding-top: 2vh;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.title {
+    font-size: 1.75rem;
+  }
+
+.poster {
+    border: 8px solid #000;
+    box-shadow: 0 24px 32px -16px rgba(0, 0, 0, 0.4);
+    height: 40vh;
+    margin: 0 1vw 0 4vh;
+  }
+
+
+
